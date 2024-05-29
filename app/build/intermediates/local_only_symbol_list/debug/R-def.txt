@@ -1,0 +1,23 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id clientAddrTxt
+id clientPortTxt
+id outTxt
+id pollBtn
+id resetBtn
+id serverCreateBtn
+id serverPortTxt
+id setBtn
+id timeTxt
+layout activity_practical_test02v7_main
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Base.Theme.PracticalTest02v7
+style Theme.PracticalTest02v7
+xml backup_rules
+xml data_extraction_rules
